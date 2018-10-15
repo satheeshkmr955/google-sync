@@ -10,7 +10,7 @@
     "config_id": "production",
     "app_name": "Calender Sync",
     "callback_url": "http://localhost:8000/auth/google/callback",
-    "client_id": "874936264532-j8copjpcdq76c8t6jhijnob540q4u838.apps.googleusercontent.com",
-    "client_secret": "Vlh6k4YRSYOphuv7w5HDF-Rn"
+    "client_id": "874936264532-ipe9s90anh98a51r9hgd0dq32a4i8c1j.apps.googleusercontent.com",
+    "client_secret": "9_OdFWUaOQsKEvbg0izWz7r-"
   }
 }
