@@ -1,0 +1,16 @@
+{
+  "development": {
+    "config_id": "development",
+    "app_name": "Calender Sync",
+    "callback_url": "http://localhost:8000/auth/google/callback",
+    "client_id": "874936264532-j8copjpcdq76c8t6jhijnob540q4u838.apps.googleusercontent.com",
+    "client_secret": "Vlh6k4YRSYOphuv7w5HDF-Rn"
+  },
+  "production": {
+    "config_id": "production",
+    "app_name": "Calender Sync",
+    "callback_url": "http://localhost:8000/auth/google/callback",
+    "client_id": "874936264532-j8copjpcdq76c8t6jhijnob540q4u838.apps.googleusercontent.com",
+    "client_secret": "Vlh6k4YRSYOphuv7w5HDF-Rn"
+  }
+}
